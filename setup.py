@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-package-YOUR-USERNAME-HERE",
+    name="python_cicd_test",
     version="0.0.1",
     author="Example Author",
     author_email="author@example.com",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "src"},
-    packages=setuptools.find_packages(where="src"),
+    package_dir={"": "pybo"},
+    packages=setuptools.find_packages(where="pybo"),
     python_requires=">=3.6",
 )

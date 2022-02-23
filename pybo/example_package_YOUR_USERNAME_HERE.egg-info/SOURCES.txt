@@ -1,0 +1,6 @@
+README.md
+setup.py
+pybo/example_package_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+pybo/example_package_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+pybo/example_package_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+pybo/example_package_YOUR_USERNAME_HERE.egg-info/top_level.txt
